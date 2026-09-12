@@ -22229,7 +22229,37 @@
       "french": "Laisse passer le doute, agis",
       "category": "Purpose",
       "generated_at": "2026-09-12T05:27:45.033815"
+    },
+    {
+      "english": "Breathe deep, choose again",
+      "french": "Respire profond, choisis encore",
+      "category": "Strength",
+      "generated_at": "2026-09-12T16:00:07.491753"
+    },
+    {
+      "english": "I face fear, I learn",
+      "french": "J’affronte la peur, j’apprends",
+      "category": "Strength",
+      "generated_at": "2026-09-12T16:00:07.491762"
+    },
+    {
+      "english": "Silence speaks, I soften",
+      "french": "Le silence parle, je m’apaise",
+      "category": "Strength",
+      "generated_at": "2026-09-12T16:00:07.491764"
+    },
+    {
+      "english": "My answers rise, quietly",
+      "french": "Mes réponses remontent, discrètement",
+      "category": "Strength",
+      "generated_at": "2026-09-12T16:00:07.491765"
+    },
+    {
+      "english": "I hold steady, inside",
+      "french": "Je reste solide, en dedans",
+      "category": "Strength",
+      "generated_at": "2026-09-12T16:00:07.491766"
     }
   ],
-  "last_updated": "2026-09-12T05:27:45.033818"
+  "last_updated": "2026-09-12T16:00:07.491768"
 }
