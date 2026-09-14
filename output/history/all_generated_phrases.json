@@ -22529,7 +22529,37 @@
       "french": "Une phrase, voix sûre",
       "category": "Confidence",
       "generated_at": "2026-09-14T05:53:43.324376"
+    },
+    {
+      "english": "Speak gently, let hearts listen",
+      "french": "Parle doucement, que l’âme écoute",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:20:58.882082"
+    },
+    {
+      "english": "Offer warmth, even in silence",
+      "french": "Offre de la chaleur, en silence",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:20:58.882098"
+    },
+    {
+      "english": "Choose kindness, then soften your gaze",
+      "french": "Choisis la douceur, baisse ton regard",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:20:58.882100"
+    },
+    {
+      "english": "Your words can heal, today",
+      "french": "Tes mots guérissent, aujourd’hui",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:20:58.882101"
+    },
+    {
+      "english": "Hold space, breathe out mercy",
+      "french": "Garde l’espace, souffle la bonté",
+      "category": "Kindness",
+      "generated_at": "2026-09-14T18:20:58.882102"
     }
   ],
-  "last_updated": "2026-09-14T05:53:43.324378"
+  "last_updated": "2026-09-14T18:20:58.882105"
 }
