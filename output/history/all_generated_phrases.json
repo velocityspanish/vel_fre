@@ -23159,7 +23159,37 @@
       "french": "Attends des pauses, pas des résultats",
       "category": "Patience",
       "generated_at": "2026-09-18T16:56:47.990731"
+    },
+    {
+      "english": "Today, speak in French",
+      "french": "Aujourd'hui, parle en français",
+      "category": "Motivation",
+      "generated_at": "2026-09-18T18:50:00.693253"
+    },
+    {
+      "english": "Mistakes are doors, not walls",
+      "french": "Les erreurs, sont des portes",
+      "category": "Motivation",
+      "generated_at": "2026-09-18T18:50:00.693267"
+    },
+    {
+      "english": "Warm up, then say it",
+      "french": "Échauffe-toi, puis dis-le",
+      "category": "Motivation",
+      "generated_at": "2026-09-18T18:50:00.693269"
+    },
+    {
+      "english": "Keep your questions, they help",
+      "french": "Garde tes questions, elles t'aident",
+      "category": "Motivation",
+      "generated_at": "2026-09-18T18:50:00.693271"
+    },
+    {
+      "english": "Smile softly, practice out loud",
+      "french": "Souris doucement, entraîne-toi",
+      "category": "Motivation",
+      "generated_at": "2026-09-18T18:50:00.693272"
     }
   ],
-  "last_updated": "2026-09-18T16:56:47.990733"
+  "last_updated": "2026-09-18T18:50:00.693274"
 }
