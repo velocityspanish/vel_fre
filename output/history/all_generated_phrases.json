@@ -23549,7 +23549,37 @@
       "french": "Soulève avec soin, ne te presse pas",
       "category": "Strength",
       "generated_at": "2026-09-20T23:50:10.556876"
+    },
+    {
+      "english": "Breathe in, soften your shoulders",
+      "french": "Inspire, détends tes épaules",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T05:57:58.771075"
+    },
+    {
+      "english": "Exhale slowly, let go softly",
+      "french": "Expire lentement, lâche doucement",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T05:57:58.771084"
+    },
+    {
+      "english": "Notice now, without judging yourself",
+      "french": "Observe maintenant, sans te juger",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T05:57:58.771085"
+    },
+    {
+      "english": "Feel your feet, grounded",
+      "french": "Sente tes pieds, ancré",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T05:57:58.771087"
+    },
+    {
+      "english": "Relax your jaw, release tension",
+      "french": "Détends ta mâchoire, relâche",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-21T05:57:58.771088"
     }
   ],
-  "last_updated": "2026-09-20T23:50:10.556877"
+  "last_updated": "2026-09-21T05:57:58.771089"
 }
