@@ -23609,7 +23609,37 @@
       "french": "Réponds maintenant, ajuste après",
       "category": "Patience",
       "generated_at": "2026-09-21T18:28:41.130589"
+    },
+    {
+      "english": "Break rules, build skill",
+      "french": "Brisez les règles, bâtissez",
+      "category": "Success",
+      "generated_at": "2026-09-21T20:14:51.445873"
+    },
+    {
+      "english": "Aim higher, edit faster",
+      "french": "Visez plus haut, corrigez vite",
+      "category": "Success",
+      "generated_at": "2026-09-21T20:14:51.445884"
+    },
+    {
+      "english": "Choose discomfort, grow quickly",
+      "french": "Choisissez l’inconfort, grandissez vite",
+      "category": "Success",
+      "generated_at": "2026-09-21T20:14:51.445886"
+    },
+    {
+      "english": "Turn doubt into drafts",
+      "french": "Transformez le doute, en brouillons",
+      "category": "Success",
+      "generated_at": "2026-09-21T20:14:51.445887"
+    },
+    {
+      "english": "Say it plainly, start",
+      "french": "Dites-le clairement, commencez",
+      "category": "Success",
+      "generated_at": "2026-09-21T20:14:51.445888"
     }
   ],
-  "last_updated": "2026-09-21T18:28:41.130590"
+  "last_updated": "2026-09-21T20:14:51.445890"
 }
