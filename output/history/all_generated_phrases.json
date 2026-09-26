@@ -24389,7 +24389,37 @@
       "french": "Je choisis moi, encore aujourd’hui",
       "category": "Happiness",
       "generated_at": "2026-09-26T18:56:51.607261"
+    },
+    {
+      "english": "Fix one problem, breathe first",
+      "french": "Répare un souci, respire d'abord",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T21:56:08.404913"
+    },
+    {
+      "english": "Protect your focus, silence noise",
+      "french": "Protège ton attention, coupe le bruit",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T21:56:08.404925"
+    },
+    {
+      "english": "Make room for rest, choose",
+      "french": "Fais de la place au repos, choisis",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T21:56:08.404928"
+    },
+    {
+      "english": "Let doubts pass, keep listening",
+      "french": "Laisse passer le doute, écoute",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T21:56:08.404929"
+    },
+    {
+      "english": "Work smart today, forgive delays",
+      "french": "Travaille bien aujourd'hui, pardonne les retards",
+      "category": "Purpose",
+      "generated_at": "2026-09-26T21:56:08.404930"
     }
   ],
-  "last_updated": "2026-09-26T18:56:51.607262"
+  "last_updated": "2026-09-26T21:56:08.404932"
 }
