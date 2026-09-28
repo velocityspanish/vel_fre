@@ -24569,7 +24569,37 @@
       "french": "Avance encore, même fatigué",
       "category": "Strength",
       "generated_at": "2026-09-27T21:59:33.576278"
+    },
+    {
+      "english": "Pause, notice your breath",
+      "french": "Pause, observe ton souffle",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T00:17:04.561773"
+    },
+    {
+      "english": "Small wins, big calm",
+      "french": "Petites victoires, grand calme",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T00:17:04.561780"
+    },
+    {
+      "english": "Today, I soften my mind",
+      "french": "Aujourd’hui, j’adoucis mon esprit",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T00:17:04.561782"
+    },
+    {
+      "english": "I reset, gently, right now",
+      "french": "Je me recentre, tout doucement",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T00:17:04.561784"
+    },
+    {
+      "english": "Listen inside, then move",
+      "french": "Écoute en toi, puis avance",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-28T00:17:04.561785"
     }
   ],
-  "last_updated": "2026-09-27T21:59:33.576280"
+  "last_updated": "2026-09-28T00:17:04.561786"
 }
