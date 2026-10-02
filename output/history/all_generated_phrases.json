@@ -25169,7 +25169,37 @@
       "french": "Reste immobile, grandis au-dedans",
       "category": "Patience",
       "generated_at": "2026-10-01T23:04:31.972181"
+    },
+    {
+      "english": "Breathe in, unclench your jaw",
+      "french": "Inspire, desserre ta mâchoire",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T01:16:51.475507"
+    },
+    {
+      "english": "Let the moment, hold you",
+      "french": "Laisse l’instant, te porter",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T01:16:51.475516"
+    },
+    {
+      "english": "Soften your eyes, gently",
+      "french": "Adoucis tes yeux, doucement",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T01:16:51.475518"
+    },
+    {
+      "english": "Notice your thoughts, then relax",
+      "french": "Observe tes pensées, puis relâche",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T01:16:51.475519"
+    },
+    {
+      "english": "Shoulders down, heart steady",
+      "french": "Épaules basses, cœur tranquille",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T01:16:51.475520"
     }
   ],
-  "last_updated": "2026-10-01T23:04:31.972182"
+  "last_updated": "2026-10-02T01:16:51.475521"
 }
