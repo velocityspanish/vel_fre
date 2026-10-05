@@ -25649,7 +25649,37 @@
       "french": "Merci, mon cœur se détend",
       "category": "Gratitude",
       "generated_at": "2026-10-05T00:25:28.765319"
+    },
+    {
+      "english": "Write it down, then act",
+      "french": "Note-le, puis agis",
+      "category": "Creativity",
+      "generated_at": "2026-10-05T06:36:33.982632"
+    },
+    {
+      "english": "Say yes, revise later",
+      "french": "Dis oui, rectifie ensuite",
+      "category": "Creativity",
+      "generated_at": "2026-10-05T06:36:33.982643"
+    },
+    {
+      "english": "Create chaos, then organize",
+      "french": "Crée le chaos, range ensuite",
+      "category": "Creativity",
+      "generated_at": "2026-10-05T06:36:33.982644"
+    },
+    {
+      "english": "Test the idea, immediately",
+      "french": "Teste l’idée, tout de suite",
+      "category": "Creativity",
+      "generated_at": "2026-10-05T06:36:33.982645"
+    },
+    {
+      "english": "Break the rule, gently",
+      "french": "Casse la règle, doucement",
+      "category": "Creativity",
+      "generated_at": "2026-10-05T06:36:33.982646"
     }
   ],
-  "last_updated": "2026-10-05T00:25:28.765321"
+  "last_updated": "2026-10-05T06:36:33.982647"
 }
