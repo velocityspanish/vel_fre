@@ -25859,7 +25859,37 @@
       "french": "La force parle, laisse-la",
       "category": "Strength",
       "generated_at": "2026-10-06T18:46:29.655153"
+    },
+    {
+      "english": "Breathe first, listen deeper",
+      "french": "Respirez d’abord, écoutez plus",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-06T20:45:23.748325"
+    },
+    {
+      "english": "Name the feeling, soften",
+      "french": "Nommez l’émotion, adoucissez",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-06T20:45:23.748336"
+    },
+    {
+      "english": "Thoughts pass, my attention stays",
+      "french": "Les pensées passent, mon attention reste",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-06T20:45:23.748337"
+    },
+    {
+      "english": "Curiosity replaces quick judgment",
+      "french": "La curiosité remplace le jugement",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-06T20:45:23.748339"
+    },
+    {
+      "english": "Let the moment teach",
+      "french": "Laissez l’instant enseigner",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-06T20:45:23.748340"
     }
   ],
-  "last_updated": "2026-10-06T18:46:29.655155"
+  "last_updated": "2026-10-06T20:45:23.748342"
 }
