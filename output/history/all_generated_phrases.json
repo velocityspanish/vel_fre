@@ -26399,7 +26399,37 @@
       "french": "Choisissez l’enchantement, malgré les délais",
       "category": "Happiness",
       "generated_at": "2026-10-10T01:30:16.701080"
+    },
+    {
+      "english": "Chill the storm, breathe deeper",
+      "french": "Calme la tempête, respire plus",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T06:44:25.238879"
+    },
+    {
+      "english": "Let dawn rinse your thoughts",
+      "french": "Laisse l’aube laver tes pensées",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T06:44:25.238887"
+    },
+    {
+      "english": "Water your doubts, then release",
+      "french": "Arrose tes doutes, puis lâche",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T06:44:25.238889"
+    },
+    {
+      "english": "Wind tells secrets, keep listening",
+      "french": "Le vent dit des secrets, écoute",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T06:44:25.238890"
+    },
+    {
+      "english": "Roots hold firm, heart softens",
+      "french": "Les racines tiennent, le cœur s’apaise",
+      "category": "Wisdom",
+      "generated_at": "2026-10-10T06:44:25.238891"
     }
   ],
-  "last_updated": "2026-10-10T01:30:16.701081"
+  "last_updated": "2026-10-10T06:44:25.238893"
 }
