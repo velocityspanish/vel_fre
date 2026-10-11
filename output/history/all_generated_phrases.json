@@ -26609,7 +26609,37 @@
       "french": "Merci, pour ma concentration stable",
       "category": "Gratitude",
       "generated_at": "2026-10-11T17:54:47.847827"
+    },
+    {
+      "english": "Pause first, then breathe",
+      "french": "Baisse les épaules, respire",
+      "category": "Patience",
+      "generated_at": "2026-10-11T19:53:54.832735"
+    },
+    {
+      "english": "Let silence hold you, gently",
+      "french": "Laisse le silence, te porter",
+      "category": "Patience",
+      "generated_at": "2026-10-11T19:53:54.832747"
+    },
+    {
+      "english": "Your pace is enough, today",
+      "french": "Ton rythme suffit, aujourd’hui",
+      "category": "Patience",
+      "generated_at": "2026-10-11T19:53:54.832749"
+    },
+    {
+      "english": "Ease off, you’ll feel steadier",
+      "french": "Relâche, tu seras plus stable",
+      "category": "Patience",
+      "generated_at": "2026-10-11T19:53:54.832750"
+    },
+    {
+      "english": "Chase calm, not urgency",
+      "french": "Cherche le calme, pas l’urgence",
+      "category": "Patience",
+      "generated_at": "2026-10-11T19:53:54.832751"
     }
   ],
-  "last_updated": "2026-10-11T17:54:47.847829"
+  "last_updated": "2026-10-11T19:53:54.832753"
 }
