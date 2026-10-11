@@ -26519,7 +26519,37 @@
       "french": "Je choisis le centre",
       "category": "Balance",
       "generated_at": "2026-10-10T22:23:18.258240"
+    },
+    {
+      "english": "Quiet courage, then begin",
+      "french": "Courage discret, puis commence",
+      "category": "Success",
+      "generated_at": "2026-10-11T00:39:39.873983"
+    },
+    {
+      "english": "Breathe through doubt, walk forward",
+      "french": "Respire le doute, avance",
+      "category": "Success",
+      "generated_at": "2026-10-11T00:39:39.873990"
+    },
+    {
+      "english": "Learn gently, grow steady",
+      "french": "Apprends doucement, grandis",
+      "category": "Success",
+      "generated_at": "2026-10-11T00:39:39.873992"
+    },
+    {
+      "english": "Light your hope, release haste",
+      "french": "Allume l’espoir, lâche la hâte",
+      "category": "Success",
+      "generated_at": "2026-10-11T00:39:39.873993"
+    },
+    {
+      "english": "Say yes, but slower",
+      "french": "Dis oui, mais plus lentement",
+      "category": "Success",
+      "generated_at": "2026-10-11T00:39:39.873995"
     }
   ],
-  "last_updated": "2026-10-10T22:23:18.258242"
+  "last_updated": "2026-10-11T00:39:39.873996"
 }
