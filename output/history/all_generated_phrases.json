@@ -27209,7 +27209,37 @@
       "french": "Laisse la peur passer, mène",
       "category": "Success",
       "generated_at": "2026-10-15T17:36:04.724853"
+    },
+    {
+      "english": "Courage rises, quietly today",
+      "french": "Le courage monte, doucement aujourd'hui",
+      "category": "Courage",
+      "generated_at": "2026-10-15T19:40:11.672368"
+    },
+    {
+      "english": "Hands shake, yet I choose",
+      "french": "Mes mains tremblent, pourtant je choisis",
+      "category": "Courage",
+      "generated_at": "2026-10-15T19:40:11.672377"
+    },
+    {
+      "english": "I face wind, without armor",
+      "french": "Je traverse le vent, sans armure",
+      "category": "Courage",
+      "generated_at": "2026-10-15T19:40:11.672379"
+    },
+    {
+      "english": "Heart stays brave, in doubt",
+      "french": "Le cœur reste brave, dans le doute",
+      "category": "Courage",
+      "generated_at": "2026-10-15T19:40:11.672380"
+    },
+    {
+      "english": "One breath, brave enough",
+      "french": "Un souffle, assez courageux",
+      "category": "Courage",
+      "generated_at": "2026-10-15T19:40:11.672381"
     }
   ],
-  "last_updated": "2026-10-15T17:36:04.724855"
+  "last_updated": "2026-10-15T19:40:11.672383"
 }
