@@ -27329,7 +27329,37 @@
       "french": "Tiens bon, reste tendre",
       "category": "Perseverance",
       "generated_at": "2026-10-16T05:33:12.357344"
+    },
+    {
+      "english": "You’ve got this, truly",
+      "french": "Tu peux, vraiment",
+      "category": "Success",
+      "generated_at": "2026-10-16T17:10:03.617198"
+    },
+    {
+      "english": "Speak anyway, even softly",
+      "french": "Parle quand même, doucement",
+      "category": "Success",
+      "generated_at": "2026-10-16T17:10:03.617206"
+    },
+    {
+      "english": "Write it down, then smile",
+      "french": "Écris-le, puis souris",
+      "category": "Success",
+      "generated_at": "2026-10-16T17:10:03.617208"
+    },
+    {
+      "english": "Pause, breathe, then continue",
+      "french": "Pause, respire, continue",
+      "category": "Success",
+      "generated_at": "2026-10-16T17:10:03.617209"
+    },
+    {
+      "english": "Choose clarity, not perfection",
+      "french": "Choisis la clarté, pas parfait",
+      "category": "Success",
+      "generated_at": "2026-10-16T17:10:03.617210"
     }
   ],
-  "last_updated": "2026-10-16T05:33:12.357345"
+  "last_updated": "2026-10-16T17:10:03.617212"
 }
