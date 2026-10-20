@@ -27989,7 +27989,37 @@
       "french": "J’adoucis la peur, j’apprends",
       "category": "Purpose",
       "generated_at": "2026-10-20T19:48:26.643362"
+    },
+    {
+      "english": "Stay steady, keep moving",
+      "french": "Restez stable, continuez",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:12:49.968987"
+    },
+    {
+      "english": "Breathe first, act after",
+      "french": "Respirez d’abord, agissez ensuite",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:12:49.968995"
+    },
+    {
+      "english": "Pause now, proceed gently",
+      "french": "Faites une pause, avancez doux",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:12:49.968996"
+    },
+    {
+      "english": "Let time work, calmly",
+      "french": "Laissez le temps agir, calmement",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:12:49.968998"
+    },
+    {
+      "english": "Hold on, release tension",
+      "french": "Tenez bon, relâchez la tension",
+      "category": "Patience",
+      "generated_at": "2026-10-20T22:12:49.968999"
     }
   ],
-  "last_updated": "2026-10-20T19:48:26.643364"
+  "last_updated": "2026-10-20T22:12:49.969001"
 }
