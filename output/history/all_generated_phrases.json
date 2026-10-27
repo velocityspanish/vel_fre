@@ -28949,7 +28949,37 @@
       "french": "La sève monte, quand tu pauses",
       "category": "Patience",
       "generated_at": "2026-10-27T16:42:38.078722"
+    },
+    {
+      "english": "Speak up, practice daily",
+      "french": "Parle, pratique chaque jour",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T20:17:06.309670"
+    },
+    {
+      "english": "Write it, then say it",
+      "french": "Écris-le, puis dis-le",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T20:17:06.309681"
+    },
+    {
+      "english": "Listen closely, repeat confidently",
+      "french": "Écoute bien, répète avec confiance",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T20:17:06.309683"
+    },
+    {
+      "english": "Make mistakes, learn fast",
+      "french": "Fais des erreurs, apprends vite",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T20:17:06.309684"
+    },
+    {
+      "english": "Aim for flow, not perfection",
+      "french": "Vise la fluidité, pas la perfection",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T20:17:06.309685"
     }
   ],
-  "last_updated": "2026-10-27T16:42:38.078724"
+  "last_updated": "2026-10-27T20:17:06.309686"
 }
