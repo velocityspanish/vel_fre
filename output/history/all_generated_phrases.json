@@ -29069,7 +29069,37 @@
       "french": "Aujourd’hui, je pardonne plus vite",
       "category": "Forgiveness",
       "generated_at": "2026-10-28T13:35:49.055180"
+    },
+    {
+      "english": "Fix it, then rest.",
+      "french": "Répare, puis repose-toi.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T17:14:28.302453"
+    },
+    {
+      "english": "Messy plans, brave action.",
+      "french": "Plans flous, action courageuse.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T17:14:28.302464"
+    },
+    {
+      "english": "One pause, new focus.",
+      "french": "Une pause, nouveau cap.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T17:14:28.302466"
+    },
+    {
+      "english": "Email tomorrow, not now.",
+      "french": "Courriel demain, pas maintenant.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T17:14:28.302467"
+    },
+    {
+      "english": "Stuck today, learn quietly.",
+      "french": "Bloqué aujourd’hui, apprends doucement.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-28T17:14:28.302468"
     }
   ],
-  "last_updated": "2026-10-28T13:35:49.055181"
+  "last_updated": "2026-10-28T17:14:28.302470"
 }
