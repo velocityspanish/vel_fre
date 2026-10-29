@@ -29279,7 +29279,37 @@
       "french": "Merci de parler, même tout doux,",
       "category": "Gratitude",
       "generated_at": "2026-10-29T20:38:18.399452"
+    },
+    {
+      "english": "Speak up, even quietly",
+      "french": "Parle, même tout doucement",
+      "category": "Courage",
+      "generated_at": "2026-10-29T23:28:32.927036"
+    },
+    {
+      "english": "Try again, with softer eyes",
+      "french": "Recommence, au regard plus doux",
+      "category": "Courage",
+      "generated_at": "2026-10-29T23:28:32.927049"
+    },
+    {
+      "english": "Walk through fear, gently",
+      "french": "Avance dans la peur, doucement",
+      "category": "Courage",
+      "generated_at": "2026-10-29T23:28:32.927050"
+    },
+    {
+      "english": "Hold steady, despite doubts",
+      "french": "Tiens bon, malgré les doutes",
+      "category": "Courage",
+      "generated_at": "2026-10-29T23:28:32.927051"
+    },
+    {
+      "english": "Ask for help, bravely",
+      "french": "Demande de l’aide, courageusement",
+      "category": "Courage",
+      "generated_at": "2026-10-29T23:28:32.927052"
     }
   ],
-  "last_updated": "2026-10-29T20:38:18.399454"
+  "last_updated": "2026-10-29T23:28:32.927053"
 }
