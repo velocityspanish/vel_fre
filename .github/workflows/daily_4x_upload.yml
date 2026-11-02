@@ -3,10 +3,10 @@ name: Velocity French - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '45 6 * * *'   # 7:45 AM Paris
-    - cron: '15 11 * * *'  # 12:15 PM Paris
-    - cron: '45 15 * * *'  # 4:45 PM Paris
-    - cron: '30 19 * * *'  # 8:30 PM Paris
+    #- cron: '45 6 * * *'   # 7:45 AM Paris
+    #- cron: '15 11 * * *'  # 12:15 PM Paris
+   # - cron: '45 15 * * *'  # 4:45 PM Paris
+    #- cron: '30 19 * * *'  # 8:30 PM Paris
     - cron: '15 23 * * *'  # 12:15 AM Paris / Americas Evening
 
   # Allow manual trigger for testing
