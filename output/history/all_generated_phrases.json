@@ -30374,7 +30374,42 @@
       "transliteration": "zhuh fehz uneuh pahz, pwee zhuh shwa-zeh lah doos-ehr",
       "category": "Balance",
       "generated_at": "2026-11-11T23:23:47.913554"
+    },
+    {
+      "english": "Wait a moment, everything will work out.",
+      "french": "Attends une minute, tout ira bien.",
+      "transliteration": "An-têndz un min-it, tou-t ira byan",
+      "category": "Patience",
+      "generated_at": "2026-11-12T01:47:26.432229"
+    },
+    {
+      "english": "Take your time, no need to hurry.",
+      "french": "Prends ton temps, pas besoin de te presser.",
+      "transliteration": "Prind ton tan, pa bu-zoin de te pres-say",
+      "category": "Patience",
+      "generated_at": "2026-11-12T01:47:26.432244"
+    },
+    {
+      "english": "Keep going, step by step, patiently.",
+      "french": "Continue, pas à pas, avec patience.",
+      "transliteration": "Kon-ti-nû, pa a pa, a-vek pa-sians",
+      "category": "Patience",
+      "generated_at": "2026-11-12T01:47:26.432245"
+    },
+    {
+      "english": "Let it unfold slowly, in its way.",
+      "french": "Laisse les choses se dérouler doucement.",
+      "transliteration": "Lès-è les shoz se dé-rou-lay douc-e-mân",
+      "category": "Patience",
+      "generated_at": "2026-11-12T01:47:26.432247"
+    },
+    {
+      "english": "You can breathe out, then try again.",
+      "french": "Tu peux expirer, puis recommencer.",
+      "transliteration": "Tu pû ez-pi-rer, püi re-kom-mansay",
+      "category": "Patience",
+      "generated_at": "2026-11-12T01:47:26.432248"
     }
   ],
-  "last_updated": "2026-11-11T23:23:47.913556"
+  "last_updated": "2026-11-12T01:47:26.432250"
 }
