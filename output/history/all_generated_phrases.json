@@ -30514,7 +30514,42 @@
       "transliteration": "mon cur ruh-lash, il lash peh-ree-z",
       "category": "Forgiveness",
       "generated_at": "2026-11-12T21:23:52.480756"
+    },
+    {
+      "english": "You’ve got this, keep going gently.",
+      "french": "Tu y arrives, continue doucement.",
+      "transliteration": "Tu y ahriv, kontinye doucemant.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:40:46.054927"
+    },
+    {
+      "english": "Use your voice, it will carry.",
+      "french": "Utilise ta voix, elle portera.",
+      "transliteration": "Utiliz ta vwa, el portera.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:40:46.054939"
+    },
+    {
+      "english": "Say it once, then smile.",
+      "french": "Dis-le une fois, puis souris.",
+      "transliteration": "Dis-le yn fwa, pui suri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:40:46.054941"
+    },
+    {
+      "english": "Start small, your brain learns fast.",
+      "french": "Commence petit, ton cerveau apprend vite.",
+      "transliteration": "Komans peti, ton sarveo apran vit.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:40:46.054943"
+    },
+    {
+      "english": "It’s okay to stumble, no problem.",
+      "french": "Ça va si tu trébuches, pas de souci.",
+      "transliteration": "Sa va si tu trebuch, pa de souci.",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T22:40:46.054944"
     }
   ],
-  "last_updated": "2026-11-12T21:23:52.480758"
+  "last_updated": "2026-11-12T22:40:46.054946"
 }
