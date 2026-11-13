@@ -30549,7 +30549,42 @@
       "transliteration": "Sa va si tu trebuch, pa de souci.",
       "category": "Confidence",
       "generated_at": "2026-11-12T22:40:46.054944"
+    },
+    {
+      "english": "Inspire calmement, expire doucement.",
+      "french": "Inspirez calmement, expirez doucement.",
+      "transliteration": "an-spe-RAY kalm-MON, ex-pi-RAY doux-MON",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:52:14.339944"
+    },
+    {
+      "english": "Relax your jaw, feel your face.",
+      "french": "Détendez la mâchoire, sentez votre visage.",
+      "transliteration": "de-tan-dey la ma-CHOIR, san-tay vo-tre vi-ZHAJ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:52:14.339958"
+    },
+    {
+      "english": "Unclench your hands, soften your palms.",
+      "french": "Desserrez vos mains, adoucissez vos paumes.",
+      "transliteration": "de-SER-ay vo-moyn, a-DOO-si-say vo pom",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:52:14.339960"
+    },
+    {
+      "english": "Let your shoulders drop, right now.",
+      "french": "Laissez tomber vos épaules, tout de suite.",
+      "transliteration": "ley-say tom-bay vo ay-pol, toot duh SYUIT",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:52:14.339962"
+    },
+    {
+      "english": "Feel your feet, grounded in today.",
+      "french": "Sentez vos pieds, ancrés dans maintenant.",
+      "transliteration": "san-tay vo pyed, an-kre day-zhon MAN-ten-ant",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T00:52:14.339963"
     }
   ],
-  "last_updated": "2026-11-12T22:40:46.054946"
+  "last_updated": "2026-11-13T00:52:14.339965"
 }
