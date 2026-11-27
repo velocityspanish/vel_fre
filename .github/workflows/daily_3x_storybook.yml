@@ -2,7 +2,7 @@ name: Velocity French - Storybook Publish
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '07:10 * * *'
   workflow_dispatch:
     inputs:
       category:
