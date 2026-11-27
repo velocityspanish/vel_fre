@@ -31151,7 +31151,28 @@
       "transliteration": "Bon-jour, j'es-père que tu vas bien",
       "category": "Introductions",
       "generated_at": "2026-11-27T19:03:41.142285"
+    },
+    {
+      "english": "Hi, do you have espresso today?",
+      "french": "Salut, vous avez de l’espresso aujourd’hui ?",
+      "transliteration": "Salut, vou-zé de l’espresso aujour-dhui?",
+      "category": "Coffee Shop",
+      "generated_at": "2026-11-27T19:22:18.175085"
+    },
+    {
+      "english": "One coffee, please, for here.",
+      "french": "Un café, s’il vous plaît, pour ici.",
+      "transliteration": "Un café, s’il vous plaît, pour ici.",
+      "category": "Coffee Shop",
+      "generated_at": "2026-11-27T19:22:18.175108"
+    },
+    {
+      "english": "Can I get a croissant too?",
+      "french": "Je peux avoir un croissant aussi ?",
+      "transliteration": "Je peux avoir un croissant aus-si?",
+      "category": "Coffee Shop",
+      "generated_at": "2026-11-27T19:22:18.175112"
     }
   ],
-  "last_updated": "2026-11-27T19:03:41.142287"
+  "last_updated": "2026-11-27T19:22:18.175116"
 }
