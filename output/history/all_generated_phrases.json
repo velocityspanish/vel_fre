@@ -31130,7 +31130,28 @@
       "transliteration": "Je muh parl avak doos-seur, so-van.",
       "category": "Positive Life",
       "generated_at": "2026-11-27T11:56:23.769110"
+    },
+    {
+      "english": "Hi, how are you doing today?",
+      "french": "Salut, ça va aujourd'hui ?",
+      "transliteration": "Sa-lut, ça va au-jour-d'hui?",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T19:03:41.142267"
+    },
+    {
+      "english": "Hey! Long time, how’s it going?",
+      "french": "Coucou, ça fait longtemps, ça va ?",
+      "transliteration": "Cou-cou, ça fait long-temps, ça va?",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T19:03:41.142282"
+    },
+    {
+      "english": "Good morning, I hope you’re well.",
+      "french": "Bonjour, j'espère que tu vas bien.",
+      "transliteration": "Bon-jour, j'es-père que tu vas bien",
+      "category": "Introductions",
+      "generated_at": "2026-11-27T19:03:41.142285"
     }
   ],
-  "last_updated": "2026-11-27T11:56:23.769112"
+  "last_updated": "2026-11-27T19:03:41.142287"
 }
