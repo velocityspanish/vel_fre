@@ -31172,7 +31172,28 @@
       "transliteration": "Je peux avoir un croissant aus-si?",
       "category": "Coffee Shop",
       "generated_at": "2026-11-27T19:22:18.175112"
+    },
+    {
+      "english": "Excuse me, where is the metro station?",
+      "french": "Excusez-moi, où est la station de métro ?",
+      "transliteration": "Ekskyooz-mwa, oo eh la stasyon de met-ro?",
+      "category": "Travel",
+      "generated_at": "2026-11-28T16:09:07.391666"
+    },
+    {
+      "english": "Hi, can you help me with this?",
+      "french": "Salut, tu peux m’aider pour ça ?",
+      "transliteration": "Salü, ty pooo meh-day-ay pour sa?",
+      "category": "Travel",
+      "generated_at": "2026-11-28T16:09:07.391678"
+    },
+    {
+      "english": "I’d like a ticket, please.",
+      "french": "Je voudrais un billet, s’il vous plaît.",
+      "transliteration": "Zhuh voodrè un biyèt, sil voo plè",
+      "category": "Travel",
+      "generated_at": "2026-11-28T16:09:07.391680"
     }
   ],
-  "last_updated": "2026-11-27T19:22:18.175116"
+  "last_updated": "2026-11-28T16:09:07.391682"
 }
